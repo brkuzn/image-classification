@@ -1,4 +1,4 @@
-# Sports Image Classification — Transfer Learning vs. Custom CNN
+# Sports Image Classification — Transfer Learning vs Custom CNN
 
 <img width="1800" height="379" alt="image" src="https://github.com/user-attachments/assets/39430438-6bc3-4667-a7a8-de7196ff3525" />
 
