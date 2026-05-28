@@ -1,5 +1,8 @@
 # Sports Image Classification — Transfer Learning vs. Custom CNN
 
+<img width="1800" height="379" alt="image" src="https://github.com/user-attachments/assets/39430438-6bc3-4667-a7a8-de7196ff3525" />
+
+
 **Can a frozen pretrained network outperform a carefully designed CNN built from scratch on a 100-class image classification task?**
 
 This project trains and compares two deep learning architectures on the [Kaggle Sports Classification dataset](https://www.kaggle.com/datasets/gpiosenka/sports-classification): an Xception model leveraging ImageNet transfer learning, and a custom 4-block CNN trained from random initialization.
