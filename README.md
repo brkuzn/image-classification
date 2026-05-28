@@ -4,7 +4,7 @@
 
 This project trains and compares two deep learning architectures on the [Kaggle Sports Classification dataset](https://www.kaggle.com/datasets/gpiosenka/sports-classification): an Xception model leveraging ImageNet transfer learning, and a custom 4-block CNN trained from random initialization.
 
-📄 [Read the full paper](./BI%20Term%20Paper.pdf)
+📄 [Read the full paper](./Paper.pdf)
 
 ---
 
